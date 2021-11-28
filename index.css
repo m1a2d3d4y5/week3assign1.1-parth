@@ -1,0 +1,14 @@
+.incenter {
+    width: 400px;
+    height: 300px;
+    background-color: #ad2a91;
+    margin:auto;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+body{
+    background-color: #d17ad3;
+}
